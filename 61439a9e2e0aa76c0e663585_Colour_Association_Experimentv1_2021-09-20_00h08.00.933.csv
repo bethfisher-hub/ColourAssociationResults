@@ -1,0 +1,50 @@
+key_resp.keys,key_resp.rt,key_resp_2.keys,key_resp_2.rt,key_resp_3.keys,key_resp_3.rt,key_resp_4.keys,key_resp_4.rt,inputText,rt,pracassoc.thisRepN,pracassoc.thisTrialN,pracassoc.thisN,pracassoc.thisIndex,pracassoc.ran,participant,session,date,expName,psychopyVersion,OS,frameRate,study_id,key_resp_6.keys,key_resp_6.rt,Colour1,Ecc,assocresponse.thisRepN,assocresponse.thisTrialN,assocresponse.thisN,assocresponse.thisIndex,assocresponse.ran,key_resp_5.keys,key_resp_5.rt,trials.thisRepN,trials.thisTrialN,trials.thisN,trials.thisIndex,trials.ran
+space,4.9096,space,76.8472,space,57.8894,space,21.5475, ,20.1547,0,0,0,0,1,61439a9e2e0aa76c0e663585,614816ccb697cdb9be6abf25,2021-09-20_00h08.00.933,Colour_Association_Experimentv1,2020.2.10,Win32,60,614813970c3839c5bfc24e99,,,,,,,,,,,,,,,,
+,,,,,,,,,2.4429,1,0,1,0,1,61439a9e2e0aa76c0e663585,614816ccb697cdb9be6abf25,2021-09-20_00h08.00.933,Colour_Association_Experimentv1,2020.2.10,Win32,60,614813970c3839c5bfc24e99,,,,,,,,,,,,,,,,
+,,,,,,,,yellow,17.7359,2,0,2,0,1,61439a9e2e0aa76c0e663585,614816ccb697cdb9be6abf25,2021-09-20_00h08.00.933,Colour_Association_Experimentv1,2020.2.10,Win32,60,614813970c3839c5bfc24e99,,,,,,,,,,,,,,,,
+,,,,,,,,yellow,21.2356,3,0,3,0,1,61439a9e2e0aa76c0e663585,614816ccb697cdb9be6abf25,2021-09-20_00h08.00.933,Colour_Association_Experimentv1,2020.2.10,Win32,60,614813970c3839c5bfc24e99,,,,,,,,,,,,,,,,
+,,,,,,,, blue,10.3738,,,,,,61439a9e2e0aa76c0e663585,614816ccb697cdb9be6abf25,2021-09-20_00h08.00.933,Colour_Association_Experimentv1,2020.2.10,Win32,60,614813970c3839c5bfc24e99,space,1.3513,5,FF,0,0,0,0,1,,,,,,,
+,,,,,,,,blue,6.7905,,,,,,61439a9e2e0aa76c0e663585,614816ccb697cdb9be6abf25,2021-09-20_00h08.00.933,Colour_Association_Experimentv1,2020.2.10,Win32,60,614813970c3839c5bfc24e99,,,,,1,0,1,0,1,,,,,,,
+,,,,,,,,,,,,,,,61439a9e2e0aa76c0e663585,614816ccb697cdb9be6abf25,2021-09-20_00h08.00.933,Colour_Association_Experimentv1,2020.2.10,Win32,60,614813970c3839c5bfc24e99,,,5,FF,,,,,,space,0.3912,0,0,0,4,1
+,,,,,,,, green  nature and vegetables,40.3262,,,,,,61439a9e2e0aa76c0e663585,614816ccb697cdb9be6abf25,2021-09-20_00h08.00.933,Colour_Association_Experimentv1,2020.2.10,Win32,60,614813970c3839c5bfc24e99,,,4,PF,0,0,0,0,1,,,,,,,
+,,,,,,,,vegetables,1,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,
+,,,,,,,,nature,1,,,,,,,,,,,,,,,,,,2,,,,,,,,,,,
+,,,,,,,,,,,,,,,61439a9e2e0aa76c0e663585,614816ccb697cdb9be6abf25,2021-09-20_00h08.00.933,Colour_Association_Experimentv1,2020.2.10,Win32,60,614813970c3839c5bfc24e99,,,4,PF,,,,,,space,0.4142,0,1,1,3,1
+,,,,,,,, pink candies and girls,23.4928,,,,,,61439a9e2e0aa76c0e663585,614816ccb697cdb9be6abf25,2021-09-20_00h08.00.933,Colour_Association_Experimentv1,2020.2.10,Win32,60,614813970c3839c5bfc24e99,,,9,FF,0,0,0,0,1,,,,,,,
+,,,,,,,,candy,1,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,
+,,,,,,,,girls,1,,,,,,,,,,,,,,,,,,2,,,,,,,,,,,
+,,,,,,,,my   keyboard,31.2291,,,,,,61439a9e2e0aa76c0e663585,614816ccb697cdb9be6abf25,2021-09-20_00h08.00.933,Colour_Association_Experimentv1,2020.2.10,Win32,60,614813970c3839c5bfc24e99,,,,,3,0,1,0,1,,,,,,,
+,,,,,,,,,,,,,,,61439a9e2e0aa76c0e663585,614816ccb697cdb9be6abf25,2021-09-20_00h08.00.933,Colour_Association_Experimentv1,2020.2.10,Win32,60,614813970c3839c5bfc24e99,,,9,FF,,,,,,space,1.0818,0,2,2,8,1
+,,,,,,,,grapes,35.7427,,,,,,61439a9e2e0aa76c0e663585,614816ccb697cdb9be6abf25,2021-09-20_00h08.00.933,Colour_Association_Experimentv1,2020.2.10,Win32,60,614813970c3839c5bfc24e99,,,8,PF,0,0,0,0,1,,,,,,,
+,,,,,,,,my bed,9.7076,,,,,,61439a9e2e0aa76c0e663585,614816ccb697cdb9be6abf25,2021-09-20_00h08.00.933,Colour_Association_Experimentv1,2020.2.10,Win32,60,614813970c3839c5bfc24e99,,,,,1,0,1,0,1,,,,,,,
+,,,,,,,,my phone,5.9158,,,,,,61439a9e2e0aa76c0e663585,614816ccb697cdb9be6abf25,2021-09-20_00h08.00.933,Colour_Association_Experimentv1,2020.2.10,Win32,60,614813970c3839c5bfc24e99,,,,,2,0,2,0,1,,,,,,,
+,,,,,,,,,0.7562,,,,,,61439a9e2e0aa76c0e663585,614816ccb697cdb9be6abf25,2021-09-20_00h08.00.933,Colour_Association_Experimentv1,2020.2.10,Win32,60,614813970c3839c5bfc24e99,,,,,3,0,3,0,1,,,,,,,
+,,,,,,,,,,,,,,,61439a9e2e0aa76c0e663585,614816ccb697cdb9be6abf25,2021-09-20_00h08.00.933,Colour_Association_Experimentv1,2020.2.10,Win32,60,614813970c3839c5bfc24e99,,,8,PF,,,,,,space,0.4875,0,3,3,7,1
+,,,,,,,, my computer,13.27,,,,,,61439a9e2e0aa76c0e663585,614816ccb697cdb9be6abf25,2021-09-20_00h08.00.933,Colour_Association_Experimentv1,2020.2.10,Win32,60,614813970c3839c5bfc24e99,,,6,PF,0,0,0,0,1,,,,,,,
+,,,,,,,,the water,6.5757,,,,,,61439a9e2e0aa76c0e663585,614816ccb697cdb9be6abf25,2021-09-20_00h08.00.933,Colour_Association_Experimentv1,2020.2.10,Win32,60,614813970c3839c5bfc24e99,,,,,1,0,1,0,1,,,,,,,
+,,,,,,,,,31.09,,,,,,61439a9e2e0aa76c0e663585,614816ccb697cdb9be6abf25,2021-09-20_00h08.00.933,Colour_Association_Experimentv1,2020.2.10,Win32,60,614813970c3839c5bfc24e99,,,,,2,0,2,0,1,,,,,,,
+,,,,,,,,,,,,,,,61439a9e2e0aa76c0e663585,614816ccb697cdb9be6abf25,2021-09-20_00h08.00.933,Colour_Association_Experimentv1,2020.2.10,Win32,60,614813970c3839c5bfc24e99,,,6,PF,,,,,,space,0.7037,0,4,4,5,1
+,,,,,,,, blue king,7.742,,,,,,61439a9e2e0aa76c0e663585,614816ccb697cdb9be6abf25,2021-09-20_00h08.00.933,Colour_Association_Experimentv1,2020.2.10,Win32,60,614813970c3839c5bfc24e99,,,7,FF,0,0,0,0,1,,,,,,,
+,,,,,,,,my shirt,12.6312,,,,,,61439a9e2e0aa76c0e663585,614816ccb697cdb9be6abf25,2021-09-20_00h08.00.933,Colour_Association_Experimentv1,2020.2.10,Win32,60,614813970c3839c5bfc24e99,,,,,1,0,1,0,1,,,,,,,
+,,,,,,,,my pc mouse,12.5131,,,,,,61439a9e2e0aa76c0e663585,614816ccb697cdb9be6abf25,2021-09-20_00h08.00.933,Colour_Association_Experimentv1,2020.2.10,Win32,60,614813970c3839c5bfc24e99,,,,,2,0,2,0,1,,,,,,,
+,,,,,,,,,10.3675,,,,,,61439a9e2e0aa76c0e663585,614816ccb697cdb9be6abf25,2021-09-20_00h08.00.933,Colour_Association_Experimentv1,2020.2.10,Win32,60,614813970c3839c5bfc24e99,,,,,3,0,3,0,1,,,,,,,
+,,,,,,,,,,,,,,,61439a9e2e0aa76c0e663585,614816ccb697cdb9be6abf25,2021-09-20_00h08.00.933,Colour_Association_Experimentv1,2020.2.10,Win32,60,614813970c3839c5bfc24e99,,,7,FF,,,,,,space,0.2577,0,5,5,6,1
+,,,,,,,,vegetables,22.298,,,,,,61439a9e2e0aa76c0e663585,614816ccb697cdb9be6abf25,2021-09-20_00h08.00.933,Colour_Association_Experimentv1,2020.2.10,Win32,60,614813970c3839c5bfc24e99,,,3,FF,0,0,0,0,1,,,,,,,
+,,,,,,,,grass,27.9926,,,,,,61439a9e2e0aa76c0e663585,614816ccb697cdb9be6abf25,2021-09-20_00h08.00.933,Colour_Association_Experimentv1,2020.2.10,Win32,60,614813970c3839c5bfc24e99,,,,,1,0,1,0,1,,,,,,,
+,,,,,,,,the world,9.1383,,,,,,61439a9e2e0aa76c0e663585,614816ccb697cdb9be6abf25,2021-09-20_00h08.00.933,Colour_Association_Experimentv1,2020.2.10,Win32,60,614813970c3839c5bfc24e99,,,,,2,0,2,0,1,,,,,,,
+,,,,,,,,,0.9783,,,,,,61439a9e2e0aa76c0e663585,614816ccb697cdb9be6abf25,2021-09-20_00h08.00.933,Colour_Association_Experimentv1,2020.2.10,Win32,60,614813970c3839c5bfc24e99,,,,,3,0,3,0,1,,,,,,,
+,,,,,,,,,,,,,,,61439a9e2e0aa76c0e663585,614816ccb697cdb9be6abf25,2021-09-20_00h08.00.933,Colour_Association_Experimentv1,2020.2.10,Win32,60,614813970c3839c5bfc24e99,,,3,FF,,,,,,space,0.4847,0,6,6,2,1
+,,,,,,,, oranges,5.1862,,,,,,61439a9e2e0aa76c0e663585,614816ccb697cdb9be6abf25,2021-09-20_00h08.00.933,Colour_Association_Experimentv1,2020.2.10,Win32,60,614813970c3839c5bfc24e99,,,2,PF,0,0,0,0,1,,,,,,,
+,,,,,,,,pumpkin,15.8466,,,,,,61439a9e2e0aa76c0e663585,614816ccb697cdb9be6abf25,2021-09-20_00h08.00.933,Colour_Association_Experimentv1,2020.2.10,Win32,60,614813970c3839c5bfc24e99,,,,,1,0,1,0,1,,,,,,,
+,,,,,,,,my cabinet,55.2712,,,,,,61439a9e2e0aa76c0e663585,614816ccb697cdb9be6abf25,2021-09-20_00h08.00.933,Colour_Association_Experimentv1,2020.2.10,Win32,60,614813970c3839c5bfc24e99,,,,,2,0,2,0,1,,,,,,,
+,,,,,,,,fruits,9.4645,,,,,,61439a9e2e0aa76c0e663585,614816ccb697cdb9be6abf25,2021-09-20_00h08.00.933,Colour_Association_Experimentv1,2020.2.10,Win32,60,614813970c3839c5bfc24e99,,,,,3,0,3,0,1,,,,,,,
+,,,,,,,,,0.8394,,,,,,61439a9e2e0aa76c0e663585,614816ccb697cdb9be6abf25,2021-09-20_00h08.00.933,Colour_Association_Experimentv1,2020.2.10,Win32,60,614813970c3839c5bfc24e99,,,,,4,0,4,0,1,,,,,,,
+,,,,,,,,,,,,,,,61439a9e2e0aa76c0e663585,614816ccb697cdb9be6abf25,2021-09-20_00h08.00.933,Colour_Association_Experimentv1,2020.2.10,Win32,60,614813970c3839c5bfc24e99,,,2,PF,,,,,,space,0.5249,0,7,7,1,1
+,,,,,,,, blood,14.6312,,,,,,61439a9e2e0aa76c0e663585,614816ccb697cdb9be6abf25,2021-09-20_00h08.00.933,Colour_Association_Experimentv1,2020.2.10,Win32,60,614813970c3839c5bfc24e99,,,1,FF,0,0,0,0,1,,,,,,,
+,,,,,,,,fruits,2.8603,,,,,,61439a9e2e0aa76c0e663585,614816ccb697cdb9be6abf25,2021-09-20_00h08.00.933,Colour_Association_Experimentv1,2020.2.10,Win32,60,614813970c3839c5bfc24e99,,,,,1,0,1,0,1,,,,,,,
+,,,,,,,,apple,2.1038,,,,,,61439a9e2e0aa76c0e663585,614816ccb697cdb9be6abf25,2021-09-20_00h08.00.933,Colour_Association_Experimentv1,2020.2.10,Win32,60,614813970c3839c5bfc24e99,,,,,2,0,2,0,1,,,,,,,
+,,,,,,,,my desk,20.2642,,,,,,61439a9e2e0aa76c0e663585,614816ccb697cdb9be6abf25,2021-09-20_00h08.00.933,Colour_Association_Experimentv1,2020.2.10,Win32,60,614813970c3839c5bfc24e99,,,,,3,0,3,0,1,,,,,,,
+,,,,,,,,war,4.5961,,,,,,61439a9e2e0aa76c0e663585,614816ccb697cdb9be6abf25,2021-09-20_00h08.00.933,Colour_Association_Experimentv1,2020.2.10,Win32,60,614813970c3839c5bfc24e99,,,,,4,0,4,0,1,,,,,,,
+,,,,,,,,china,7.2424,,,,,,61439a9e2e0aa76c0e663585,614816ccb697cdb9be6abf25,2021-09-20_00h08.00.933,Colour_Association_Experimentv1,2020.2.10,Win32,60,614813970c3839c5bfc24e99,,,,,5,0,5,0,1,,,,,,,
+,,,,,,,,,12.9926,,,,,,61439a9e2e0aa76c0e663585,614816ccb697cdb9be6abf25,2021-09-20_00h08.00.933,Colour_Association_Experimentv1,2020.2.10,Win32,60,614813970c3839c5bfc24e99,,,,,6,0,6,0,1,,,,,,,
+,,,,,,,,,,,,,,,61439a9e2e0aa76c0e663585,614816ccb697cdb9be6abf25,2021-09-20_00h08.00.933,Colour_Association_Experimentv1,2020.2.10,Win32,60,614813970c3839c5bfc24e99,,,1,FF,,,,,,,,0,8,8,0,1
